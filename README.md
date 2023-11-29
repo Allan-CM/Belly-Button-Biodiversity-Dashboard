@@ -2,6 +2,8 @@
 Module 14 assignment
 This project uses the skills that I learnt as part of Module 14 to analyze nvael bacterial data
 
+GitHub Page Link: https://allan-cm.github.io/belly-button-challenge/
+
 Static Folder: 
 1. App.js --> Contains Javascript code to create html file 
 

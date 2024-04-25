@@ -24,7 +24,7 @@ This project focuses on building an interactive web dashboard to explore and vis
 The dashboard provides visual insights into the biodiversity found in belly button samples. It displays the top 10 OTUs (Operational Taxonomic Units) based on sample values and visualizes the relationship between OTU IDs and sample values using a bubble chart.
 
 # How to Use
-1. Open the HTML file in a web browser.
+1. Open the HTML file in a web browser using https://allan-cm.github.io/Belly-Button-Biodiversity-Dashboard/ 
 2. Use the dropdown menu to select a test subject ID.
 3. Explore the bar chart and bubble chart to visualize the sample data.
 4. View the demographic information in the panel below the dropdown menu.
